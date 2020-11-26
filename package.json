@@ -1,0 +1,20 @@
+{
+  "name": "marvel-cinematic-universe-quiz-app",
+  "version": "1.0.0",
+  "description": "This Is Package.Json Filewhich have track of  all the dependencies we are using",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Marvel-Cinematic-Universe-Quiz-App"
+  },
+  "author": "Akash Kumar Singh",
+  "license": "ISC"
+}
